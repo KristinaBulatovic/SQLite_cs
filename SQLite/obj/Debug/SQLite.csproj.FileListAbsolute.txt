@@ -1,0 +1,6 @@
+c:\users\tina\documents\visual studio 2015\Projects\SQLite\SQLite\bin\Debug\SQLite.dll
+c:\users\tina\documents\visual studio 2015\Projects\SQLite\SQLite\bin\Debug\SQLite.pdb
+c:\users\tina\documents\visual studio 2015\Projects\SQLite\SQLite\bin\Debug\System.Data.SQLite.xml
+c:\users\tina\documents\visual studio 2015\Projects\SQLite\SQLite\obj\Debug\SQLite.csprojResolveAssemblyReference.cache
+c:\users\tina\documents\visual studio 2015\Projects\SQLite\SQLite\obj\Debug\SQLite.dll
+c:\users\tina\documents\visual studio 2015\Projects\SQLite\SQLite\obj\Debug\SQLite.pdb
